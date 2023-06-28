@@ -1,0 +1,13 @@
+# Target labels
+ libcurl
+# Source files and their labels
+/home/koen/Documents/GitHub/micropython-cli/CMakeFiles/libcurl
+/home/koen/Documents/GitHub/micropython-cli/CMakeFiles/libcurl.rule
+/home/koen/Documents/GitHub/micropython-cli/CMakeFiles/libcurl-complete.rule
+/home/koen/Documents/GitHub/micropython-cli/libcurl-prefix/src/libcurl-stamp/libcurl-build.rule
+/home/koen/Documents/GitHub/micropython-cli/libcurl-prefix/src/libcurl-stamp/libcurl-configure.rule
+/home/koen/Documents/GitHub/micropython-cli/libcurl-prefix/src/libcurl-stamp/libcurl-download.rule
+/home/koen/Documents/GitHub/micropython-cli/libcurl-prefix/src/libcurl-stamp/libcurl-install.rule
+/home/koen/Documents/GitHub/micropython-cli/libcurl-prefix/src/libcurl-stamp/libcurl-mkdir.rule
+/home/koen/Documents/GitHub/micropython-cli/libcurl-prefix/src/libcurl-stamp/libcurl-patch.rule
+/home/koen/Documents/GitHub/micropython-cli/libcurl-prefix/src/libcurl-stamp/libcurl-update.rule

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/_deps/openssl-subbuild/CMakeFiles/openssl-populate"
+		},
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/_deps/openssl-subbuild/CMakeFiles/openssl-populate.rule"
+		},
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/_deps/openssl-subbuild/CMakeFiles/openssl-populate-complete.rule"
+		},
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/_deps/openssl-subbuild/openssl-populate-prefix/src/openssl-populate-stamp/openssl-populate-build.rule"
+		},
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/_deps/openssl-subbuild/openssl-populate-prefix/src/openssl-populate-stamp/openssl-populate-configure.rule"
+		},
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/_deps/openssl-subbuild/openssl-populate-prefix/src/openssl-populate-stamp/openssl-populate-download.rule"
+		},
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/_deps/openssl-subbuild/openssl-populate-prefix/src/openssl-populate-stamp/openssl-populate-install.rule"
+		},
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/_deps/openssl-subbuild/openssl-populate-prefix/src/openssl-populate-stamp/openssl-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/_deps/openssl-subbuild/openssl-populate-prefix/src/openssl-populate-stamp/openssl-populate-patch.rule"
+		},
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/_deps/openssl-subbuild/openssl-populate-prefix/src/openssl-populate-stamp/openssl-populate-test.rule"
+		},
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/_deps/openssl-subbuild/openssl-populate-prefix/src/openssl-populate-stamp/openssl-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"openssl-populate"
+		],
+		"name" : "openssl-populate"
+	}
+}

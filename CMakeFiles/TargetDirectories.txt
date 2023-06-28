@@ -1,0 +1,8 @@
+/home/koen/Documents/GitHub/micropython-cli/CMakeFiles/edit_cache.dir
+/home/koen/Documents/GitHub/micropython-cli/CMakeFiles/rebuild_cache.dir
+/home/koen/Documents/GitHub/micropython-cli/src/CMakeFiles/micropythonCli.dir
+/home/koen/Documents/GitHub/micropython-cli/src/CMakeFiles/edit_cache.dir
+/home/koen/Documents/GitHub/micropython-cli/src/CMakeFiles/rebuild_cache.dir
+/home/koen/Documents/GitHub/micropython-cli/lib/CMakeFiles/lib.dir
+/home/koen/Documents/GitHub/micropython-cli/lib/CMakeFiles/edit_cache.dir
+/home/koen/Documents/GitHub/micropython-cli/lib/CMakeFiles/rebuild_cache.dir

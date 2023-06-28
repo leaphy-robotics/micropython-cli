@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/CMakeFiles/libcurl"
+		},
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/CMakeFiles/libcurl.rule"
+		},
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/CMakeFiles/libcurl-complete.rule"
+		},
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/libcurl-prefix/src/libcurl-stamp/libcurl-build.rule"
+		},
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/libcurl-prefix/src/libcurl-stamp/libcurl-configure.rule"
+		},
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/libcurl-prefix/src/libcurl-stamp/libcurl-download.rule"
+		},
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/libcurl-prefix/src/libcurl-stamp/libcurl-install.rule"
+		},
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/libcurl-prefix/src/libcurl-stamp/libcurl-mkdir.rule"
+		},
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/libcurl-prefix/src/libcurl-stamp/libcurl-patch.rule"
+		},
+		{
+			"file" : "/home/koen/Documents/GitHub/micropython-cli/libcurl-prefix/src/libcurl-stamp/libcurl-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libcurl"
+		],
+		"name" : "libcurl"
+	}
+}
